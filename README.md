@@ -2,8 +2,8 @@
 
 HistDay or 历史上的今天
 
-###Design Goal
-Build an easy to use, highly customable social media information gleanning, organization, analysis and mining tool, which is focused on each individual user instead of any centrual control orginazation.
+###Goal
+Build an easy to use, highly customable social media information gleaning, organization, analysis and mining tool, which is focused on each individual user instead of any centrual control orginazation.
 
 ###Target User
 People like us, who love social media, yet are tired of keep swiping thumb on the little screen and watching stupid commercials, who miss google reader and want to build our own google reader which can never been shut down by any company.
@@ -20,7 +20,7 @@ A Web App for Sina Weibo. Below things should be done before end of August 2015:
  3. Gleaning task create, modify(friends list, crawling frequency/depth, support picture or not), delete;
  5. Gleaning data download, format: plain txt, html page;
 
-####Ncie to Have
+####Nice to Have
  1. Kindle format, Instapaper or Evernote format support;
  2. A minimalistic iOS App, with a style like Clear(the todo list app) or 奇点(Sina Weibo Client App);
 
