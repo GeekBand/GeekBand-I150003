@@ -3,7 +3,7 @@
 HistDay or 历史上的今天
 
 ###Goal
-Build an easy to use, highly customable social media information gleaning, organization, analysis and mining tool, which is focused on each individual user instead of any centrual control orginazation.
+Build a personal, easy to use, highly customable social media information gleaning, organization, analysis and mining tool, which is focused on each individual user instead of any centrual control orginazation.
 
 ###Target User
 People like us, who love social media, yet are tired of keep swiping thumb on the little screen and watching stupid commercials, who miss google reader and want to build our own google reader which can never been shut down by any company.
